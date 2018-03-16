@@ -1,3 +1,3 @@
 # lab_1
-Just another lab
+Just my first lab of 2 parts.
 8 variant
